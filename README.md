@@ -1,4 +1,4 @@
-![logo](https://github.com/AdityaKumar06/AdityaKumar06/blob/main/banner1.gif)
+![logo](https://github.com/AdityaKumar06/AdityaKumar06/blob/main/codebanner.gif)
 <h1 align="center">Hi 👋, I'm ADITYA KUMAR</h1>
 <h3 align="center">A Passionate Full-Stack Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
