@@ -1,3 +1,6 @@
+![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+
+
 ![logo](https://github.com/AdityaKumar06/AdityaKumar06/blob/main/codebanner.gif)
 <h1 align="center">Hi 👋, I'm ADITYA KUMAR</h1>
 <h3 align="center">An Indian Full-Stack Developer with a Strong Passion</h3>
