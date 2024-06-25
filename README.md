@@ -40,6 +40,7 @@
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdityaKumar06)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AdityaKumar06&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityakumar06&show_icons=true&locale=en&layout=compact" alt="adityakumar06" /></p>
