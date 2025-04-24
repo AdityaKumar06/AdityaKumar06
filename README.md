@@ -48,5 +48,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityakumar06&show_icons=true&locale=en" alt="adityakumar06" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityakumar06&" alt="adityakumar06" /></p>
 
 
