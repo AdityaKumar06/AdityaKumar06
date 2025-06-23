@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm ADITYA KUMAR</h1>
 <h3 align="center">An Indian Full-Stack Developer with a Strong Passion</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakumar06&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar06" /> </p>
 
@@ -28,7 +26,9 @@
 
 - **⚡ Fun fact I m the funniest 😁**
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <p align="left">
    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
