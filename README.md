@@ -82,4 +82,20 @@
 ---
 
 <!-- Optionally Add Latest Projects, Dev Blog Links, YouTube Tutorials, etc -->
+---
+
+### 🚀 Projects
+
+| Project Name | Tech Stack | Description | Live Demo / Repo |
+|--------------|------------|-------------|------------------|
+| **Portfolio Website** | HTML, CSS, JS | Personal website showcasing skills and resume | [Visit](https://yourportfolio.link) / [GitHub](https://github.com/AdityaKumar06/portfolio) |
+| **Task Manager App** | React, Node.js, MongoDB | A full-stack task tracking application with user auth and CRUD features | [Demo](https://yourtaskapp.link) / [GitHub](https://github.com/AdityaKumar06/task-manager) |
+| **Weather Dashboard** | JavaScript, OpenWeather API | Real-time weather app fetching data by city | [Live](https://yourweatherapp.link) / [GitHub](https://github.com/AdityaKumar06/weather-dashboard) |
+| **Android Expense Tracker** | Java, Android Studio | Mobile app for expense logging and analysis | [APK](https://yourapk.link) / [GitHub](https://github.com/AdityaKumar06/expense-tracker) |
+| **Blog CMS** | PHP, MySQL | A content management system for blogging | [Live](https://yourcms.link) / [GitHub](https://github.com/AdityaKumar06/blog-cms) |
+
+> 📌 *Replace the placeholder links above (`yourportfolio.link`, etc.) with your actual project URLs.*
+
+---
+
 
