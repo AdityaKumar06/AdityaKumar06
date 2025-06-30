@@ -214,7 +214,7 @@
   </table>
 </div>
 
-#### Other college Projects
+### 🔥 Other college Projects
 | Project | Tech Stack | Description | Links |
 |---------|------------|-------------|-------|
 | **Hotel Management System** | PHP, MySQL, JavaScript, Bootstrap | Complete booking platform with admin dashboard | [GitHub](#) |
