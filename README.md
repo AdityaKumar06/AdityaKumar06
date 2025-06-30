@@ -220,4 +220,3 @@
 | **Movie ticket reservations (frontend)** | PHP, MySQL, JavaScript, Bootstrap | Book Your Seats | [GitHub](#) |
 
 
- 📌 *Replace the placeholder links above (`yourportfolio.link`, etc.) with your actual project URLs.*
