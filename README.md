@@ -154,12 +154,65 @@
 
 ### 🚀 Projects
 
+### 🚀 Projects
+
 | Project Name | Tech Stack | Description | Live Demo / Repo |
 |--------------|------------|-------------|------------------|
-| **Portfolio Website** | HTML, CSS, JS | Personal website showcasing skills and resume | [Visit](https://yourportfolio.link) / [GitHub](https://github.com/AdityaKumar06/portfolio) |
-| **Task Manager App** | React, Node.js, MongoDB | A full-stack task tracking application with user auth and CRUD features | [Demo](https://yourtaskapp.link) / [GitHub](https://github.com/AdityaKumar06/task-manager) |
-| **Weather Dashboard** | JavaScript, OpenWeather API | Real-time weather app fetching data by city | [Live](https://yourweatherapp.link) / [GitHub](https://github.com/AdityaKumar06/weather-dashboard) |
-| **Android Expense Tracker** | Java, Android Studio | Mobile app for expense logging and analysis | [APK](https://yourapk.link) / [GitHub](https://github.com/AdityaKumar06/expense-tracker) |
-| **Blog CMS** | PHP, MySQL | A content management system for blogging | [Live](https://yourcms.link) / [GitHub](https://github.com/AdityaKumar06/blog-cms) |
+| **Apsensys Media Websites** | React, JavaScript, HTML/CSS | Built and maintained production-level media sites including BusinessHonor.com, BizFortune.com, and TheSiliconReview.com | [The Silicon Review](https://thesiliconreview.com) • [Business Honor](https://businesshonor.com) • [Business Fortune](https://bizfortune.com) |
+| **Hotel Management System** | PHP, MySQL, JavaScript | Developed responsive hotel booking platform with admin dashboard for room management | [GitHub Repo](#) |
+| **Encoreg Website** | HTML, CSS, JavaScript, Bootstrap | Created responsive site for automotive services with forms and branding | [Visit Site](https://www.encoreg.com) |
+| **Kushagra Foundation Website** | HTML, CSS, JavaScript, Bootstrap | Developed responsive single-page site for charity's mission and donations | [Visit Site](https://www.kushagrafoundation.in) |
+| **Apsensys Tech** | React, Node.js | Company website for IT and business transformation services | [Visit Site](https://apsensystech.com/) |
+| **Apsensys Care** | WordPress, WooCommerce | E-commerce platform for home care products | [Visit Site](https://apsensyscare.com/) |
 
+### 🏆 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">The Silicon Review</h3>
+        <div align="center">
+          <img src="https://github.com/AdityaKumar06/AdityaKumar06/assets/74038190/example-image-1" width="400" alt="Silicon Review Screenshot">
+          <p>World's trusted community for business professionals</p>
+          <a href="https://thesiliconreview.com" target="_blank">
+            <img src="https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge">
+          </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Business Fortune</h3>
+        <div align="center">
+          <img src="https://github.com/AdityaKumar06/AdityaKumar06/assets/74038190/example-image-2" width="400" alt="Business Fortune Screenshot">
+          <p>Leading business media platform inspiring next-gen leaders</p>
+          <a href="https://bizfortune.com" target="_blank">
+            <img src="https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge">
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Hotel Management System</h3>
+        <div align="center">
+          <img src="https://github.com/AdityaKumar06/AdityaKumar06/assets/74038190/example-image-3" width="400" alt="Hotel System Screenshot">
+          <p>Complete booking platform with admin dashboard</p>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/badge/View-Code-green?style=for-the-badge">
+          </a>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Kushagra Foundation</h3>
+        <div align="center">
+          <img src="https://github.com/AdityaKumar06/AdityaKumar06/assets/74038190/example-image-4" width="400" alt="Foundation Screenshot">
+          <p>Charity website for mission awareness and donations</p>
+          <a href="https://www.kushagrafoundation.in" target="_blank">
+            <img src="https://img.shields.io/badge/Visit-Site-blue?style=for-the-badge">
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 > 📌 *Replace the placeholder links above (`yourportfolio.link`, etc.) with your actual project URLs.*
