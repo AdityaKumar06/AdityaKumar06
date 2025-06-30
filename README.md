@@ -165,14 +165,10 @@
 | **Apsensys Tech** | HTML, CSS, Bootstrap, JavaScript, EmailJS | IT solutions and digital transformation services | [Visit](https://apsensystech.com/) |
 | **Apsensys Care** | React, Tailwind CSS, Bootstrap, JavaScript, PHP, MySQL | E-commerce platform for home care products | [Visit](https://apsensyscare.com/) |
 
-#### Other Notable Projects
-| Project | Tech Stack | Description | Links |
-|---------|------------|-------------|-------|
-| **Hotel Management System** | PHP, MySQL, JavaScript, Bootstrap | Complete booking platform with admin dashboard | [GitHub](#) |
-| **Encoreg Automotive** | HTML, CSS, Bootstrap, JavaScript | Responsive website for automotive services | [Live](https://www.encoreg.com) |
-| **Kushagra Foundation** | HTML, CSS, Bootstrap, JavaScript | Charity website for mission awareness | [Live](https://www.kushagrafoundation.in) |
 
-### 🌟 Featured Projects
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+### 🌟 freelance Projects
 
 <div align="center">
   <table>
@@ -180,7 +176,6 @@
       <td width="50%">
         <h3 align="center">Encoreg Automotive</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/400x225/2d3748/ffffff?text=Encoreg+Automotive" width="400" alt="Encoreg Screenshot">
           <p><strong>Tech Stack:</strong> HTML, CSS, Bootstrap, JavaScript</p>
           <p>Fully responsive automotive services website with Bootstrap components</p>
           <a href="https://www.encoreg.com" target="_blank">
@@ -191,7 +186,6 @@
       <td width="50%">
         <h3 align="center">Kushagra Foundation</h3>
         <div align="center">
-          <img src="https://via.placeholder.com/400x225/2d3748/ffffff?text=Kushagra+Foundation" width="400" alt="Foundation Screenshot">
           <p><strong>Tech Stack:</strong> HTML, CSS, Bootstrap, JavaScript</p>
           <p>Mobile-first charity website built with Bootstrap grid system</p>
           <a href="https://www.kushagrafoundation.in" target="_blank">
@@ -202,4 +196,12 @@
     </tr>
   </table>
 </div>
+
+#### Other college Projects
+| Project | Tech Stack | Description | Links |
+|---------|------------|-------------|-------|
+| **Hotel Management System** | PHP, MySQL, JavaScript, Bootstrap | Complete booking platform with admin dashboard | [GitHub](#) |
+| **Movie ticket reservations (frontend)** | PHP, MySQL, JavaScript, Bootstrap | Book Your Seats | [GitHub](#) |
+
+
  📌 *Replace the placeholder links above (`yourportfolio.link`, etc.) with your actual project URLs.*
