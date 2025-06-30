@@ -29,10 +29,13 @@
 
 
 
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" style="display:inline-block;">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="250" style="display:inline-block;">
-</p>
+<table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250"></td>
+    <td><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="250"></td>
+  </tr>
+</table>
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/adityakumar0614" target="blank">
