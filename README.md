@@ -16,6 +16,7 @@
   <a href="https://instagram.com/dark_______star" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 💫 About Me
 
@@ -28,13 +29,11 @@
 - ☕ Fun Fact: The best code is written with a coffee mug nearby 😉
 - 😄 Bonus: I'm probably the funniest developer you'll meet!
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🌐 Connect with Me
 
-
-
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🛠️ Languages & Tools
 
@@ -53,13 +52,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="60" height="60"/>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdityaKumar06&theme=onedark&margin-w=10&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 📊 GitHub Stats
 
@@ -72,7 +71,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar06&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🔥 Aesthetic Vibe
 
@@ -81,10 +80,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="400" height="400"/>
 </p>
 
----
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<!-- Optionally Add Latest Projects, Dev Blog Links, YouTube Tutorials, etc -->
----
 
 ### 🚀 Projects
 
@@ -97,7 +93,3 @@
 | **Blog CMS** | PHP, MySQL | A content management system for blogging | [Live](https://yourcms.link) / [GitHub](https://github.com/AdityaKumar06/blog-cms) |
 
 > 📌 *Replace the placeholder links above (`yourportfolio.link`, etc.) with your actual project URLs.*
-
----
-
-
