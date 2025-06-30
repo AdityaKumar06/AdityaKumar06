@@ -30,12 +30,17 @@
 
 
 <p align="left">
-   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-  <p align="left"> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" alt="adityakumar06" /> </p>
-   <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/adityakumar0614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityakumar0614" height="30" width="40" /></a>
-<a href="https://instagram.com/dark_______star" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dark_______star" height="30" width="40" /></a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="250" style="display:inline-block;">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="250" style="display:inline-block;">
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/adityakumar0614" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityakumar0614" height="30" width="40" />
+</a>
+<a href="https://instagram.com/dark_______star" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dark_______star" height="30" width="40" />
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
