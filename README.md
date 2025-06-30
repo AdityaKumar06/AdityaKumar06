@@ -4,13 +4,12 @@
 <h3 align="center">🚀 Indian Full-Stack Developer | MCA Postgraduate | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityakumar06&label=Profile%20Views&color=brightgreen&style=flat" alt="adityakumar06" /><br>
-
+  <img src="https://komarev.com/ghpvc/?username=adityakumar06&label=Profile%20Views&color=brightgreen&style=flat" alt="adityakumar06" />
 </p>
 
 <p align="center">
 <!--   <img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Coding" width="400" /> -->
-    <br><img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="adityakumar06" width="600" height="300"  />
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="adityakumar06" width="600" height="300"  />
 </p>
 
 
