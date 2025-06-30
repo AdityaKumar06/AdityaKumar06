@@ -9,7 +9,7 @@
 
 <p align="center">
 <!--   <img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Coding" width="400" /> -->
-<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="adityakumar06" width="600" height="300"  />
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="adityakumar06" width="600" height="400"  />
 </p>
 
 
