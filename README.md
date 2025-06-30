@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityakumar06&label=Profile%20Views&color=brightgreen&style=flat" alt="adityakumar06" />
-  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="adityakumar06" width="400" height="500" />
+  <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="adityakumar06" />
 </p>
 
 <p align="center">
