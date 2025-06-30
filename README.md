@@ -152,28 +152,27 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### 🚀 Projects
 
 ### 🚀 Projects
 
 #### Apsensys Media Portfolio
 | Project | Tech Stack | Description | Live Link |
 |---------|------------|-------------|-----------|
-| **The Silicon Review** | HTML, CSS, PHP (OOP), MySQL, JavaScript, EmailJS | World's trusted business community for CEOs and professionals | [Visit](https://thesiliconreview.com) |
-| **Business Honor** | HTML, CSS, PHP (OOP), MySQL, JavaScript, EmailJS | Platform showcasing businesses with impeccable reputation | [Visit](https://businesshonor.com) |
-| **Business Fortune** | HTML, CSS, PHP (OOP), MySQL, JavaScript, EmailJS | Leading business media inspiring next-gen leaders | [Visit](https://bizfortune.com) |
-| **Apsensys Media** | HTML, CSS, JavaScript, EmailJS | Corporate site for media publishing services | [Visit](https://apsensysmedia.com/) |
-| **Apsensys Tech** | HTML, CSS, JavaScript, EmailJS | IT solutions and digital transformation services | [Visit](https://apsensystech.com/) |
-| **Apsensys Care** | React, Tailwind CSS, JavaScript, PHP, MySQL | E-commerce platform for home care products | [Visit](https://apsensyscare.com/) |
+| **The Silicon Review** | HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, EmailJS | World's trusted business community for CEOs and professionals | [Visit](https://thesiliconreview.com) |
+| **Business Honor** | HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, EmailJS | Platform showcasing businesses with impeccable reputation | [Visit](https://businesshonor.com) |
+| **Business Fortune** | HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, EmailJS | Leading business media inspiring next-gen leaders | [Visit](https://bizfortune.com) |
+| **Apsensys Media** | HTML, CSS, Bootstrap, JavaScript, EmailJS | Corporate site for media publishing services | [Visit](https://apsensysmedia.com/) |
+| **Apsensys Tech** | HTML, CSS, Bootstrap, JavaScript, EmailJS | IT solutions and digital transformation services | [Visit](https://apsensystech.com/) |
+| **Apsensys Care** | React, Tailwind CSS, Bootstrap, JavaScript, PHP, MySQL | E-commerce platform for home care products | [Visit](https://apsensyscare.com/) |
 
 #### Other Notable Projects
 | Project | Tech Stack | Description | Links |
 |---------|------------|-------------|-------|
-| **Hotel Management System** | PHP, MySQL, JavaScript | Complete booking platform with admin dashboard | [GitHub](#) |
+| **Hotel Management System** | PHP, MySQL, JavaScript, Bootstrap | Complete booking platform with admin dashboard | [GitHub](#) |
 | **Encoreg Automotive** | HTML, CSS, Bootstrap, JavaScript | Responsive website for automotive services | [Live](https://www.encoreg.com) |
 | **Kushagra Foundation** | HTML, CSS, Bootstrap, JavaScript | Charity website for mission awareness | [Live](https://www.kushagrafoundation.in) |
 
-### 🌟 Freelance Projects
+### 🌟 Featured Projects
 
 <div align="center">
   <table>
@@ -183,7 +182,7 @@
         <div align="center">
           <img src="https://via.placeholder.com/400x225/2d3748/ffffff?text=Encoreg+Automotive" width="400" alt="Encoreg Screenshot">
           <p><strong>Tech Stack:</strong> HTML, CSS, Bootstrap, JavaScript</p>
-          <p>Responsive website with service forms and branding elements</p>
+          <p>Fully responsive automotive services website with Bootstrap components</p>
           <a href="https://www.encoreg.com" target="_blank">
             <img src="https://img.shields.io/badge/Visit_Site-Live-blue?style=for-the-badge&logo=vercel">
           </a>
@@ -194,7 +193,7 @@
         <div align="center">
           <img src="https://via.placeholder.com/400x225/2d3748/ffffff?text=Kushagra+Foundation" width="400" alt="Foundation Screenshot">
           <p><strong>Tech Stack:</strong> HTML, CSS, Bootstrap, JavaScript</p>
-          <p>Single-page charity website with donation information</p>
+          <p>Mobile-first charity website built with Bootstrap grid system</p>
           <a href="https://www.kushagrafoundation.in" target="_blank">
             <img src="https://img.shields.io/badge/Visit_Site-Live-blue?style=for-the-badge&logo=vercel">
           </a>
