@@ -15,20 +15,25 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<div align="center">
+<div align="center" style="max-width: 600px; text-align: left;">
 
 ### 💫 About Me
 
-<ul style="list-style-type:none; padding-left: 0; max-width: 600px; text-align: left;">
-  <li>👨‍💻 Full Stack Developer at <b>Apsensysmedia</b> and reachable at <b>adityakumar.connect2@gmail.com</b></li>
-  <li>🎓 Postgraduate in <b>Masters of Computer Applications (MCA)</b></li>
-  <li>💡 I specialize in <b>Web & App Development</b>, blending aesthetics with performance.</li>
-  <li>🧠 I work with <b>C, C++, Java, Python, HTML, CSS, JS, PHP, MySQL, React, Node.js</b></li>
-  <li>📬 Reach me at: <b>adityakumar.connec2@gmail.com</b></li>
-  <li>🗂️ Know more about me: <a href="https://blush-genni-51.tiiny.site" target="_blank">My Resume</a></li>
-  <li>☕ Fun Fact: The best code is written with a coffee mug nearby 😉</li>
-  <li>😄 Bonus: I'm probably the funniest developer you'll meet!</li>
-</ul>
+<p>👨‍💻 Full Stack Developer at <b>Apsensys Media</b> and reachable at <b><a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></b></p>
+
+<p>🎓 Postgraduate in <b>Masters of Computer Applications (MCA)</b></p>
+
+<p>💡 I specialize in <b>Web & App Development</b>, blending aesthetics with performance.</p>
+
+<p>🧠 I work with <b>C, C++, Java, Python, HTML5, CSS3, Bootstrap, JS, Ajax , jQuery , PHP, MySQL, React, Node.js</b></p>
+
+<p>📬 Reach me at: <b><a href="mailto:adityakumar.connec2@gmail.com">adityakumar.connec2@gmail.com</a></b></p>
+
+<p>🗂️ Know more about me: <a href="https://blush-genni-51.tiiny.site" target="_blank">My Resume</a></p>
+
+<p>☕ Fun Fact: The best code is written with a coffee mug nearby 😉</p>
+
+<p>😄 Bonus: I'm probably the funniest developer you'll meet!</p>
 
 </div>
 
