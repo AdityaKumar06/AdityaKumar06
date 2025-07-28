@@ -145,9 +145,13 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<div align="center">
+
 ### 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AdityaKumar06&theme=onedark&margin-w=10&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
