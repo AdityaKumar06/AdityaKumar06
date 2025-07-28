@@ -15,16 +15,23 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<div align="center">
+
 ### 💫 About Me
 
-- 👨‍💻 Full Stack Developer at **Apsensys Media**  
-- 🎓 Postgraduate in **Masters of Computer Applications (MCA)**
-- 💡 I specialize in **Web & App Development**, blending aesthetics with performance.
-- 🧠 I work with **C, C++, Java, Python, HTML, CSS, JS, PHP, MySQL, React, Node.js**
-- 📬 Reach me at: **adityakumar.connec2@gmail.com**
-- 🗂️ Know more about me: [My Resume](https://blush-genni-51.tiiny.site)
-- ☕ Fun Fact: The best code is written with a coffee mug nearby 😉
-- 😄 Bonus: I'm probably the funniest developer you'll meet!
+<ul style="list-style-type:none; padding-left: 0; max-width: 600px; text-align: left;">
+  <li>👨‍💻 Full Stack Developer at <b>Apsensysmedia</b> and reachable at <b>adityakumar.connect2@gmail.com</b></li>
+  <li>🎓 Postgraduate in <b>Masters of Computer Applications (MCA)</b></li>
+  <li>💡 I specialize in <b>Web & App Development</b>, blending aesthetics with performance.</li>
+  <li>🧠 I work with <b>C, C++, Java, Python, HTML, CSS, JS, PHP, MySQL, React, Node.js</b></li>
+  <li>📬 Reach me at: <b>adityakumar.connec2@gmail.com</b></li>
+  <li>🗂️ Know more about me: <a href="https://blush-genni-51.tiiny.site" target="_blank">My Resume</a></li>
+  <li>☕ Fun Fact: The best code is written with a coffee mug nearby 😉</li>
+  <li>😄 Bonus: I'm probably the funniest developer you'll meet!</li>
+</ul>
+
+</div>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
