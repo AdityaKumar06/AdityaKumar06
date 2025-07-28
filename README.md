@@ -27,7 +27,7 @@
 
 <p>🧠 I work with <b>C, C++, Java, Python, HTML5, CSS3, Bootstrap, JS, Ajax , jQuery , PHP, MySQL, React, Node.js</b></p>
 
-<p>📬 Reach me at: <b><a href="mailto:adityakumar.connec2@gmail.com">adityakumar.connec2@gmail.com</a></b></p>
+<p>📬 Reach me at: <b><a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></b></p>
 
 <p>🗂️ Know more about me: <a href="https://blush-genni-51.tiiny.site" target="_blank">My Resume</a></p>
 
