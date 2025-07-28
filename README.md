@@ -21,7 +21,7 @@
 - 🎓 Postgraduate in **Masters of Computer Applications (MCA)**
 - 💡 I specialize in **Web & App Development**, blending aesthetics with performance.
 - 🧠 I work with **C, C++, Java, Python, HTML, CSS, JS, PHP, MySQL, React, Node.js**
-- 📬 Reach me at: **Ak061410@gmail.com**
+- 📬 Reach me at: **adityakumar.connec2@gmail.com**
 - 🗂️ Know more about me: [My Resume](https://blush-genni-51.tiiny.site)
 - ☕ Fun Fact: The best code is written with a coffee mug nearby 😉
 - 😄 Bonus: I'm probably the funniest developer you'll meet!
