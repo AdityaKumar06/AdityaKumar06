@@ -170,6 +170,8 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<div align="center">
+
 ### 🔥 Aesthetic Vibe
 
 <p align="center">
@@ -177,9 +179,12 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" width="500" height="300"/>
 </p>
 
+</div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
+<div align="center">
+  
 ### 🚀 Projects
 
 #### Apsensys Media Portfolio
@@ -192,8 +197,11 @@
 | **Apsensys Tech** | HTML, CSS, Bootstrap, JavaScript, EmailJS | IT solutions and digital transformation services | [Visit](https://apsensystech.com/) |
 | **Apsensys Care** | React, Tailwind CSS, Bootstrap, JavaScript, PHP, MySQL | E-commerce platform for home care products | [Visit](https://apsensyscare.com/) |
 
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div align="center">
 
 ### 🌟 freelance Projects
 
@@ -224,10 +232,16 @@
   </table>
 </div>
 
+</div>
+
+<div align="center">
+
 ### 🔥 Other Internship Projects
 | Project | Tech Stack | Description | Links |
 |---------|------------|-------------|-------|
 | **Hotel Management System** | PHP, MySQL, JavaScript, Bootstrap | Complete booking platform with admin dashboard | [GitHub](#) |
 | **Movie ticket reservations (frontend)** | PHP, MySQL, JavaScript, Bootstrap | Book Your Seats | [GitHub](#) |
+
+</div>
 
 
