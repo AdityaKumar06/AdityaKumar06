@@ -154,7 +154,7 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
+<div align="center">
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -165,7 +165,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar06&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
-
+</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ### 🔥 Aesthetic Vibe
