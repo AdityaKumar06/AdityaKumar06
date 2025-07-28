@@ -28,7 +28,8 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
+<div align="center">
+  
 ### 🌐 Connect with Me
 
 <p align="center">
@@ -49,6 +50,7 @@
   </a>
 </p>
 
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -187,7 +189,7 @@
   
 ### 🚀 Projects
 
-#### Apsensys Media Portfolio
+#### Apsensys Group
 | Project | Tech Stack | Description | Live Link |
 |---------|------------|-------------|-----------|
 | **The Silicon Review** | HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, EmailJS | World's trusted business community for CEOs and professionals | [Visit](https://thesiliconreview.com) |
