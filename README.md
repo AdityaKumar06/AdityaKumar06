@@ -45,7 +45,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:Ak061410@gmail.com" target="_blank">
+  <a href="mailto:adityakumar.connect2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/adityakumar0614" target="_blank">
