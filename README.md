@@ -263,7 +263,6 @@
 </div>
 
 
-
 <div align="center">
 
 ### 🔥 Other Internship Projects
