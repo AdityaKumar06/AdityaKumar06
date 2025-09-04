@@ -200,7 +200,7 @@
   
 ### 🚀 Projects
 
-#### Apsensys Technologies Pvt Ltd. (Live Production Projects)
+#### Apsensys Technologies Pvt Ltd. (Live Projects in Production)
 
 <table>
   <thead>
