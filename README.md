@@ -327,10 +327,49 @@
 <div align="center">
 
 ### 🔥 Other Internship Projects
-| Project | Tech Stack | Description | Links |
-|---------|------------|-------------|-------|
-| **Hotel Management System** | PHP, MySQL, JavaScript, Bootstrap | Complete booking platform with admin dashboard | [GitHub](#) |
-| **Movie ticket reservations (frontend)** | PHP, MySQL, JavaScript, Bootstrap | Book Your Seats | [GitHub](#) |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Tech Stack</th>
+      <th>Description</th>
+      <th>Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Hotel Management System</strong></td>
+      <td>PHP, MySQL, JavaScript, Bootstrap</td>
+      <td>Complete booking platform with admin dashboard</td>
+      <td>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-brightgreen?style=for-the-badge&logo=github" alt="GitHub - Hotel Management System">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Movie Ticket Reservations (Frontend)</strong></td>
+      <td>PHP, MySQL, JavaScript, Bootstrap</td>
+      <td>Book Your Seats</td>
+      <td>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-brightgreen?style=for-the-badge&logo=github" alt="GitHub - Movie Ticket Reservations">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>College Internship System</strong></td>
+      <td>HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, RESTful APIs, EmailJS, PHP (OOP), MySQL</td>
+      <td>A web platform simplifying internship management for students and administrators.</td>
+      <td>
+        <a href="#" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-brightgreen?style=for-the-badge&logo=github" alt="GitHub - College Internship System">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 </div>
 
