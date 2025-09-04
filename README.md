@@ -202,14 +202,79 @@
 
 #### Apsensys Technologies Pvt Ltd.
 
-| Project | Tech Stack | Description | Live Link |
-|---------|------------|-------------|-----------|
-| **The Silicon Review** | HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, EmailJS | World's trusted business community for CEOs and professionals | [Visit](https://thesiliconreview.com) |
-| **Business Honor** | HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, EmailJS | Platform showcasing businesses with impeccable reputation | [Visit](https://businesshonor.com) |
-| **Business Fortune** | HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, EmailJS | Leading business media inspiring next-gen leaders | [Visit](https://bizfortune.com) |
-| **Apsensys Media** | HTML, CSS, Bootstrap, JavaScript, EmailJS | Corporate site for media publishing services | [Visit](https://apsensysmedia.com/) |
-| **Apsensys Tech** | HTML, CSS, Bootstrap, JavaScript, EmailJS | IT solutions and digital transformation services | [Visit](https://apsensystech.com/) |
-| **Apsensys Care** | React, Tailwind CSS, Bootstrap, JavaScript, PHP, MySQL | E-commerce platform for home care products | [Visit](https://apsensyscare.com/) | 
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Tech Stack</th>
+      <th>Description</th>
+      <th>Live Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>The Silicon Review</strong></td>
+      <td>HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, EmailJS</td>
+      <td>World's trusted business community for CEOs and professionals</td>
+      <td>
+        <a href="https://thesiliconreview.com" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit The Silicon Review">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Business Honor</strong></td>
+      <td>HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, EmailJS</td>
+      <td>Platform showcasing businesses with impeccable reputation</td>
+      <td>
+        <a href="https://businesshonor.com" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Business Honor">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Business Fortune</strong></td>
+      <td>HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, EmailJS</td>
+      <td>Leading business media inspiring next-gen leaders</td>
+      <td>
+        <a href="https://bizfortune.com" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Business Fortune">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Apsensys Media</strong></td>
+      <td>HTML, CSS, Bootstrap, JavaScript, EmailJS</td>
+      <td>Corporate site for media publishing services</td>
+      <td>
+        <a href="https://apsensysmedia.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Apsensys Media">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Apsensys Tech</strong></td>
+      <td>HTML, CSS, Bootstrap, JavaScript, EmailJS</td>
+      <td>IT solutions and digital transformation services</td>
+      <td>
+        <a href="https://apsensystech.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Apsensys Tech">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Apsensys Care</strong></td>
+      <td>React, Tailwind CSS, Bootstrap, JavaScript, PHP, MySQL</td>
+      <td>E-commerce platform for home care products</td>
+      <td>
+        <a href="https://apsensyscare.com/" target="_blank">
+          <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Apsensys Care">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 </div>
 
