@@ -179,7 +179,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityakumar06&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
+<img src="https://wakatime.com/share/@adityakumar06/your-stats-image.svg" alt="WakaTime Stats" />
 </p>
 
 </div>
