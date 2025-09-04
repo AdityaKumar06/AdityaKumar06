@@ -214,7 +214,7 @@
   <tbody>
     <tr>
       <td><strong>The Silicon Review</strong></td>
-     <td>HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, jQuery, AJAX, EmailJS, Payment Gateway Integration, RESTful APIs</td>
+     <td>HTML5, CSS3, Bootstrap, PHP (OOP), MySQL, JavaScript, jQuery, AJAX, EmailJS, Payment Gateway Integration, RESTful APIs</td>
       <td>World's trusted business community for CEOs and professionals</td>
       <td>
         <a href="https://thesiliconreview.com" target="_blank">
@@ -224,7 +224,7 @@
     </tr>
     <tr>
       <td><strong>Business Honor</strong></td>
-     <td>HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, jQuery, AJAX, EmailJS, Payment Gateway Integration, RESTful APIs</td>
+     <td>HTML5, CSS3, Bootstrap, PHP (OOP), MySQL, JavaScript, jQuery, AJAX, EmailJS, Payment Gateway Integration, RESTful APIs</td>
       <td>Platform showcasing businesses with impeccable reputation</td>
       <td>
         <a href="https://businesshonor.com" target="_blank">
@@ -234,7 +234,7 @@
     </tr>
     <tr>
       <td><strong>Business Fortune</strong></td>
-    <td>HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, jQuery, AJAX, EmailJS, Payment Gateway Integration, RESTful APIs</td>
+    <td>HTML5, CSS3, Bootstrap, PHP (OOP), MySQL, JavaScript, jQuery, AJAX, EmailJS, Payment Gateway Integration, RESTful APIs</td>
       <td>Leading business media inspiring next-gen leaders</td>
       <td>
         <a href="https://bizfortune.com" target="_blank">
@@ -244,7 +244,7 @@
     </tr>
     <tr>
       <td><strong>Apsensys Media</strong></td>
-     <td>HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, jQuery, AJAX, EmailJS </td>
+     <td>HTML5, CSS3, Bootstrap, PHP (OOP), MySQL, JavaScript, jQuery, AJAX, EmailJS </td>
       <td>Corporate site for media publishing services</td>
       <td>
         <a href="https://apsensysmedia.com/" target="_blank">
@@ -254,7 +254,7 @@
     </tr>
     <tr>
       <td><strong>Apsensys Tech</strong></td>
-      <td>HTML, CSS, Bootstrap, JavaScript,  AJAX, EmailJS, PHP, MySQL</td>
+      <td>HTML5, CSS3, Bootstrap, JavaScript,  AJAX, EmailJS, PHP, MySQL</td>
       <td>IT solutions and digital transformation services</td>
       <td>
         <a href="https://apsensystech.com/" target="_blank">
