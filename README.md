@@ -1,7 +1,7 @@
 ![Code Banner](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
 
 <h1 align="center">Hi 👋, I'm ADITYA KUMAR</h1>
-<h3 align="center">🚀 Indian Full-Stack Developer | MCA Postgraduate | Tech Enthusiast</h3>
+<h3 align="center">🚀 Senior Full-Stack Developer | 3+ YOE | MCA | JavaScript Specialist | Mentor & Code Reviewer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityakumar06&label=Profile%20Views&color=brightgreen&style=flat" alt="adityakumar06" />
