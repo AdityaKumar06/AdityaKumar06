@@ -205,10 +205,10 @@
 <table>
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Tech Stack</th>
-      <th>Description</th>
-      <th>Live Link</th>
+      <th>Projects</th>
+      <th>Tech Stacks</th>
+      <th>Descriptions</th>
+      <th>Live Links</th>
     </tr>
   </thead>
   <tbody>
