@@ -218,7 +218,7 @@
       <td>World's trusted business community for CEOs and professionals</td>
       <td>
         <a href="https://thesiliconreview.com" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit The Silicon Review">
+          <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit The Silicon Review">
         </a>
       </td>
     </tr>
@@ -228,7 +228,7 @@
       <td>Platform showcasing businesses with impeccable reputation</td>
       <td>
         <a href="https://businesshonor.com" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Business Honor">
+          <img src="https://img.shields.io/badge/e-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Business Honor">
         </a>
       </td>
     </tr>
