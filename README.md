@@ -200,7 +200,8 @@
   
 ### 🚀 Projects
 
-#### Apsensys Group
+#### Apsensys Technologies Pvt Ltd.
+
 | Project | Tech Stack | Description | Live Link |
 |---------|------------|-------------|-----------|
 | **The Silicon Review** | HTML, CSS, Bootstrap, PHP (OOP), MySQL, JavaScript, EmailJS | World's trusted business community for CEOs and professionals | [Visit](https://thesiliconreview.com) |
