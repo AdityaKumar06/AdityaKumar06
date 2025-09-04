@@ -264,7 +264,7 @@
     </tr>
     <tr>
       <td><strong>Apsensys Care</strong></td>
-      <td>React, Tailwind CSS, Bootstrap, JavaScript, AJAX,  RESTful APIs , EmailJS, Payment Gateway Integration,, PHP, MySQL</td>
+      <td>React, Tailwind CSS, Bootstrap, JavaScript, AJAX,  RESTful APIs , EmailJS, Payment Gateway Integration,PHP, MySQL</td>
       <td>E-commerce platform for home care products</td>
       <td>
         <a href="https://apsensyscare.com/" target="_blank">
