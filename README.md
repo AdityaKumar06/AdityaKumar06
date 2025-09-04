@@ -228,7 +228,7 @@
           <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Email.js</p>
           <p>A fully responsive and modern automotive service website. Built using Bootstrap for layout and components, featuring integrated contact forms via Email.js.</p>
           <a href="https://www.encoreg.com" target="_blank">
-            <img src="https://img.shields.io/badge/Visit_Site-Live-green?style=for-the-badge&logo=vercel" alt="Visit Encoreg Automotive">
+            <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Encoreg Automotive">
           </a>
         </div>
       </td>
@@ -238,7 +238,7 @@
           <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Email.js</p>
           <p>Mobile-first charity website focused on accessibility and clean design. Built with the Bootstrap grid system for responsive layout and fast load times.</p>
           <a href="https://www.kushagrafoundation.in" target="_blank">
-            <img src="https://img.shields.io/badge/Visit_Site-Live-green?style=for-the-badge&logo=vercel" alt="Visit Kushagra Foundation">
+            <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Kushagra Foundation">
           </a>
         </div>
       </td>
@@ -250,7 +250,7 @@
           <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, PHP, Ajax, jQuery, MySQL, Email.js</p>
           <p>A feature-rich web platform connecting visionary leaders and innovators. Built with a dynamic front-end and PHP/MySQL backend, including real-time interactions using Ajax and jQuery.</p>
           <a href="https://visionariesnetwork.com" target="_blank">
-            <img src="https://img.shields.io/badge/Visit_Site-Live-green?style=for-the-badge&logo=vercel" alt="Visit Visionaries Network">
+            <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Visionaries Network">
           </a>
         </div>
       </td>
