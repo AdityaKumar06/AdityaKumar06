@@ -250,7 +250,7 @@
           <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, PHP, Ajax, jQuery, MySQL, Email.js</p>
           <p>A feature-rich web platform connecting visionary leaders and innovators. Built with a dynamic front-end and PHP/MySQL backend, including real-time interactions using Ajax and jQuery.</p>
           <a href="https://visionariesnetwork.com" target="_blank">
-            <img src="https://img.shields.io/badge/Visit_Site-Live-blue?style=for-the-badge&logo=vercel" alt="Visit Visionaries Network">
+            <img src="https://img.shields.io/badge/Visit_Site-Live-green?style=for-the-badge&logo=vercel" alt="Visit Visionaries Network">
           </a>
         </div>
       </td>
