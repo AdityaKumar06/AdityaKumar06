@@ -238,7 +238,7 @@
       <td>Leading business media inspiring next-gen leaders</td>
       <td>
         <a href="https://bizfortune.com" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Business Fortune">
+          <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Business Fortune">
         </a>
       </td>
     </tr>
@@ -248,7 +248,7 @@
       <td>Corporate site for media publishing services</td>
       <td>
         <a href="https://apsensysmedia.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Apsensys Media">
+          <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Apsensys Media">
         </a>
       </td>
     </tr>
@@ -258,7 +258,7 @@
       <td>IT solutions and digital transformation services</td>
       <td>
         <a href="https://apsensystech.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Apsensys Tech">
+          <img src="https://img.shields.io/badge/-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Apsensys Tech">
         </a>
       </td>
     </tr>
@@ -268,7 +268,7 @@
       <td>E-commerce platform for home care products</td>
       <td>
         <a href="https://apsensyscare.com/" target="_blank">
-          <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Apsensys Care">
+          <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Apsensys Care">
         </a>
       </td>
     </tr>
