@@ -179,9 +179,7 @@
 </p>
 
 <p align="center">
-![Current Streak](https://img.shields.io/badge/Current%20Streak-1-brightgreen?style=flat-square)
-![Longest Streak](https://img.shields.io/badge/Longest%20Streak-5-orange?style=flat-square)
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions-344-blue?style=flat-square)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityakumar06&theme=dark" alt="GitHub Profile Summary" />
 
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
