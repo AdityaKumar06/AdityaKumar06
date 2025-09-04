@@ -200,7 +200,7 @@
   
 ### 🚀 Projects
 
-#### Apsensys Technologies Pvt Ltd.
+#### Apsensys Technologies Pvt Ltd. (Live Production Projects)
 
 <table>
   <thead>
@@ -228,7 +228,7 @@
       <td>Platform showcasing businesses with impeccable reputation</td>
       <td>
         <a href="https://businesshonor.com" target="_blank">
-          <img src="https://img.shields.io/badge/e-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Business Honor">
+          <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Business Honor">
         </a>
       </td>
     </tr>
