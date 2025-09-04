@@ -179,7 +179,7 @@
 </p>
 
 <p align="center">
-<img src="https://your-vercel-app.vercel.app?user=adityakumar06&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=adityakumar06&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" />
 </p>
 
 </div>
