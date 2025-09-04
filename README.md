@@ -175,10 +175,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityakumar06&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar06&layout=compact&theme=github_dark" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar06&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityakumar06&theme=dark&hide_border=false" alt="GitHub Streak" />
+
 </p>
 
 </div>
