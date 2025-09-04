@@ -330,9 +330,9 @@
 <table>
   <thead>
     <tr>
-      <th>Project</th>
-      <th>Tech Stack</th>
-      <th>Description</th>
+      <th>Projects</th>
+      <th>Tech Stacks</th>
+      <th>Descriptions</th>
       <th>Links</th>
     </tr>
   </thead>
@@ -352,7 +352,7 @@
       <td>PHP, MySQL, JavaScript, Bootstrap</td>
       <td>Book Your Seats</td>
       <td>
-        <a href="#" target="_blank">
+        <a href="https://github.com/AdityaKumar06/Movie-ticket-booking" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-brightgreen?style=for-the-badge&logo=github" alt="GitHub - Movie Ticket Reservations">
         </a>
       </td>
@@ -362,14 +362,13 @@
       <td>HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, RESTful APIs, EmailJS, PHP (OOP), MySQL</td>
       <td>A web platform simplifying internship management for students and administrators.</td>
       <td>
-        <a href="#" target="_blank">
+        <a href="https://github.com/AdityaKumar06/College-Internship-System" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-brightgreen?style=for-the-badge&logo=github" alt="GitHub - College Internship System">
         </a>
       </td>
     </tr>
   </tbody>
 </table>
-
 
 </div>
 
