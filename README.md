@@ -339,7 +339,7 @@
   <tbody>
     <tr>
       <td><strong>Hotel Management System</strong></td>
-      <td>PHP, MySQL, JavaScript, Bootstrap</td>
+      <td>HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, RESTful APIs, EmailJS, PHP (OOP), MySQL</td>
       <td>Complete booking platform with admin dashboard</td>
       <td>
         <a href="#" target="_blank">
