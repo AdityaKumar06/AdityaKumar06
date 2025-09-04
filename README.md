@@ -219,39 +219,36 @@
 
 ### 🌟 freelance Projects
 
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #2e2e2e;">
-
-  <table width="100%" style="border-collapse: separate; border-spacing: 30px;">
+<div align="center">
+  <table>
     <tr>
-      <td width="50%" style="vertical-align: top; background: #f9f9f9; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-        <h3 align="center" style="color: #007bff;">Encoreg Automotive</h3>
-        <p><strong>🔧 Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Email.js</p>
-        <p>A modern and responsive automotive services website using Bootstrap for structure and Email.js for form handling.</p>
-        <div align="center" style="margin-top: 15px;">
+      <td width="50%">
+        <h3 align="center">Encoreg Automotive</h3>
+        <div align="center">
+          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Email.js</p>
+          <p>A fully responsive and modern automotive service website. Built using Bootstrap for layout and components, featuring integrated contact forms via Email.js.</p>
           <a href="https://www.encoreg.com" target="_blank">
             <img src="https://img.shields.io/badge/Visit_Site-Live-blue?style=for-the-badge&logo=vercel" alt="Visit Encoreg Automotive">
           </a>
         </div>
       </td>
-
-      <td width="50%" style="vertical-align: top; background: #f9f9f9; border-radius: 12px; padding: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-        <h3 align="center" style="color: #007bff;">Kushagra Foundation</h3>
-        <p><strong>🔧 Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Email.js</p>
-        <p>A mobile-first, user-friendly charity website with clean UI, responsive grid system, and lightweight performance.</p>
-        <div align="center" style="margin-top: 15px;">
+      <td width="50%">
+        <h3 align="center">Kushagra Foundation</h3>
+        <div align="center">
+          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Email.js</p>
+          <p>Mobile-first charity website focused on accessibility and clean design. Built with the Bootstrap grid system for responsive layout and fast load times.</p>
           <a href="https://www.kushagrafoundation.in" target="_blank">
             <img src="https://img.shields.io/badge/Visit_Site-Live-blue?style=for-the-badge&logo=vercel" alt="Visit Kushagra Foundation">
           </a>
         </div>
       </td>
     </tr>
-
     <tr>
-      <td colspan="2" style="background: #f1f1f1; border-radius: 12px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
-        <h3 align="center" style="color: #007bff;">Visionaries Network</h3>
-        <p align="center"><strong>🔧 Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, PHP, Ajax, jQuery, MySQL, Email.js</p>
-        <p align="center">A full-stack platform to connect and celebrate visionary business leaders. Built with a dynamic front-end and secure PHP/MySQL backend, supporting real-time interactivity and AJAX-based user experiences.</p>
-        <div align="center" style="margin-top: 15px;">
+      <td colspan="2" align="center">
+        <h3>Visionaries Network</h3>
+        <div align="center">
+          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, PHP, Ajax, jQuery, MySQL, Email.js</p>
+          <p>A feature-rich web platform connecting visionary leaders and innovators. Built with a dynamic front-end and PHP/MySQL backend, including real-time interactions using Ajax and jQuery.</p>
           <a href="https://visionariesnetwork.com" target="_blank">
             <img src="https://img.shields.io/badge/Visit_Site-Live-blue?style=for-the-badge&logo=vercel" alt="Visit Visionaries Network">
           </a>
@@ -259,7 +256,6 @@
       </td>
     </tr>
   </table>
-
 </div>
 
 
