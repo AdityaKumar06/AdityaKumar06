@@ -179,7 +179,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityakumar06&theme=dark" alt="GitHub Profile Summary" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityakumar06&theme=dracula&hide_border=false" alt="GitHub Activity Graph" />
 
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
