@@ -214,8 +214,8 @@
   <tbody>
     <tr>
       <td><strong>The Silicon Review</strong></td>
-     <td>HTML5, CSS3, Bootstrap, PHP (OOP), MySQL, JavaScript, jQuery, AJAX, EmailJS, Payment Gateway Integration, RESTful APIs</td>
-      <td>World's trusted business community for CEOs and professionals</td>
+     <td>HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, RESTful APIs, EmailJS, Payment Gateway Integration, PHP (OOP), MySQL</td>
+      <td>World's trusted news & business community for CEOs and professionals</td>
       <td>
         <a href="https://thesiliconreview.com" target="_blank">
           <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit The Silicon Review">
@@ -224,8 +224,8 @@
     </tr>
     <tr>
       <td><strong>Business Honor</strong></td>
-     <td>HTML5, CSS3, Bootstrap, PHP (OOP), MySQL, JavaScript, jQuery, AJAX, EmailJS, Payment Gateway Integration, RESTful APIs</td>
-      <td>Platform showcasing businesses with impeccable reputation</td>
+     <td>HTML5, CSS3, Bootstrap, JavaScript, jQuery, AJAX, RESTful APIs , EmailJS, Payment Gateway Integration, PHP (OOP), MySQL</td>
+      <td>Platform showcasing businesses & news with impeccable reputation</td>
       <td>
         <a href="https://businesshonor.com" target="_blank">
           <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Business Honor">
@@ -234,8 +234,8 @@
     </tr>
     <tr>
       <td><strong>Business Fortune</strong></td>
-    <td>HTML5, CSS3, Bootstrap, PHP (OOP), MySQL, JavaScript, jQuery, AJAX, EmailJS, Payment Gateway Integration, RESTful APIs</td>
-      <td>Leading business media inspiring next-gen leaders</td>
+    <td>HTML5, CSS3, Bootstrap,  JavaScript, jQuery, AJAX, RESTful APIs , EmailJS, Payment Gateway Integration, PHP (OOP), MySQL</td>
+      <td>Leading business media news inspiring next-gen leaders</td>
       <td>
         <a href="https://bizfortune.com" target="_blank">
           <img src="https://img.shields.io/badge/Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Business Fortune">
@@ -244,7 +244,7 @@
     </tr>
     <tr>
       <td><strong>Apsensys Media</strong></td>
-     <td>HTML5, CSS3, Bootstrap, PHP (OOP), MySQL, JavaScript, jQuery, AJAX, EmailJS </td>
+     <td>HTML5, CSS3, Bootstrap,  JavaScript, jQuery, AJAX, EmailJS ,PHP (OOP), MySQL </td>
       <td>Corporate site for media publishing services</td>
       <td>
         <a href="https://apsensysmedia.com/" target="_blank">
@@ -264,7 +264,7 @@
     </tr>
     <tr>
       <td><strong>Apsensys Care</strong></td>
-      <td>React, Tailwind CSS, Bootstrap, JavaScript, AJAX, EmailJS, Payment Gateway Integration, RESTful APIs, PHP, MySQL</td>
+      <td>React, Tailwind CSS, Bootstrap, JavaScript, AJAX,  RESTful APIs , EmailJS, Payment Gateway Integration,, PHP, MySQL</td>
       <td>E-commerce platform for home care products</td>
       <td>
         <a href="https://apsensyscare.com/" target="_blank">
@@ -290,7 +290,7 @@
       <td width="50%">
         <h3 align="center">Encoreg Automotive</h3>
         <div align="center">
-          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Email.js</p>
+          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Emailjs</p>
           <p>A fully responsive and modern automotive service website. Built using Bootstrap for layout and components, featuring integrated contact forms via Email.js.</p>
           <a href="https://www.encoreg.com" target="_blank">
             <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Encoreg Automotive">
@@ -300,7 +300,7 @@
       <td width="50%">
         <h3 align="center">Kushagra Foundation</h3>
         <div align="center">
-          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Email.js</p>
+          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Emailjs</p>
           <p>Mobile-first charity website focused on accessibility and clean design. Built with the Bootstrap grid system for responsive layout and fast load times.</p>
           <a href="https://www.kushagrafoundation.in" target="_blank">
             <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Kushagra Foundation">
@@ -312,7 +312,7 @@
       <td colspan="2" align="center">
         <h3>Visionaries Network</h3>
         <div align="center">
-          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, PHP, Ajax, jQuery, MySQL, Email.js</p>
+          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript,  Ajax, jQuery, Emailjs , PHP , MySQL</p>
           <p>A feature-rich web platform connecting visionary leaders and innovators. Built with a dynamic front-end and PHP/MySQL backend, including real-time interactions using Ajax and jQuery.</p>
           <a href="https://visionariesnetwork.com" target="_blank">
             <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Visionaries Network">
