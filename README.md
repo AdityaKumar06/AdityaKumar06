@@ -220,42 +220,33 @@
 ### 🌟 freelance Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Encoreg Automotive</h3>
-        <div align="center">
-          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Email js</p>
-          <p>Fully responsive automotive services website with Bootstrap components</p>
-          <a href="https://www.encoreg.com" target="_blank">
-            <img src="https://img.shields.io/badge/Visit_Site-Live-blue?style=for-the-badge&logo=vercel">
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Kushagra Foundation</h3>
-        <div align="center">
-          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript , Email js</p>
-          <p>Mobile-first charity website built with Bootstrap grid system</p>
-          <a href="https://www.kushagrafoundation.in" target="_blank">
-            <img src="https://img.shields.io/badge/Visit_Site-Live-blue?style=for-the-badge&logo=vercel">
-          </a>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">visionaries Network</h3>
-        <div align="center">
-          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, PHP, Ajax, jQuery , Mysql , Email js</p>
-          <p>Visionaries Network | Connecting and Celebrating Visionary Leaders, and Innovators Shaping the Future of Business</p>
-          <a href="https://visionariesnetwork.com" target="_blank">
-            <img src="https://img.shields.io/badge/Visit_Site-Live-blue?style=for-the-badge&logo=vercel">
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
-
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+  <!-- Row 1: Encoreg Automotive and Kushagra Foundation -->
+  <div style="flex: 1 1 45%; max-width: 500px; padding: 10px;">
+    <h3>Encoreg Automotive</h3>
+    <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Email.js</p>
+    <p>Fully responsive automotive services website with Bootstrap components</p>
+    <a href="https://www.encoreg.com" target="_blank">
+      <img src="https://img.shields.io/badge/Visit_Site-Live-blue?style=for-the-badge&logo=vercel" alt="Visit Encoreg Automotive">
+    </a>
+  </div>
+  <div style="flex: 1 1 45%; max-width: 500px; padding: 10px;">
+    <h3>Kushagra Foundation</h3>
+    <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, Email.js</p>
+    <p>Mobile-first charity website built with Bootstrap grid system</p>
+    <a href="https://www.kushagrafoundation.in" target="_blank">
+      <img src="https://img.shields.io/badge/Visit_Site-Live-blue?style=for-the-badge&logo=vercel" alt="Visit Kushagra Foundation">
+    </a>
+  </div>
+  <!-- Row 2: Visionaries Network -->
+  <div style="flex: 1 1 90%; max-width: 600px; padding: 10px;">
+    <h3>Visionaries Network</h3>
+    <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript, PHP, Ajax, jQuery, MySQL, Email.js</p>
+    <p>Visionaries Network | Connecting and Celebrating Visionary Leaders and Innovators Shaping the Future of Business</p>
+    <a href="https://visionariesnetwork.com" target="_blank">
+      <img src="https://img.shields.io/badge/Visit_Site-Live-blue?style=for-the-badge&logo=vercel" alt="Visit Visionaries Network">
+    </a>
+  </div>
 </div>
 
 <div align="center">
