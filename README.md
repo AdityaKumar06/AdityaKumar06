@@ -29,7 +29,7 @@
 
 <p>📬 Reach me at: <b><a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></b></p>
 
-<p>🗂️ Know more about me: <a href="https://blush-genni-51.tiiny.site" target="_blank">My Resume</a></p>
+<p>🗂️ Know more about me: <a href="https://adityaintech.tiiny.site" target="_blank">My Resume</a></p>
 
 <p>☕ Fun Fact: The best code is written with a coffee mug nearby 😉</p>
 
