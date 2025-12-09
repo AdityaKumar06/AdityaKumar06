@@ -159,12 +159,9 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<div align="center">
-
 ### 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaKumar06&title=Stars,Followers" alt="GitHub Trophies" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
