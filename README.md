@@ -169,20 +169,26 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
+  
+### 📊 GitHub Stats
 
-## 📊 GitHub Stats (Stable Mirror)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakumar06&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar06&layout=compact&theme=github_dark" alt="Top Languages" />
+ 
+</p>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-chef-koch.vercel.app/api?username=adityakumar06&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats-chef-koch.vercel.app/api/top-langs/?username=adityakumar06&layout=compact&theme=github_dark" alt="Top Languages" />
-
-<!-- Profile Summary Card -->
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityakumar06&theme=dark" alt="GitHub Profile Summary" />
 
 </div>
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=adityakumar06&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar06&layout=compact&theme=github_dark" alt="Top Languages" />
+ 
+
+this tooo images not working
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
