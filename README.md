@@ -308,18 +308,7 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <h3>Visionaries Network</h3>
-        <div align="center">
-          <p><strong>Tech Stack:</strong> HTML5, CSS3, Bootstrap, JavaScript,  Ajax, jQuery, Emailjs , PHP , MySQL</p>
-          <p>A feature-rich web platform connecting visionary leaders and innovators. Built with a dynamic front-end and PHP/MySQL backend, including real-time interactions using Ajax and jQuery.</p>
-          <a href="https://visionariesnetwork.com" target="_blank">
-            <img src="https://img.shields.io/badge/Visit_Site-Live-brightgreen?style=for-the-badge&logo=vercel" alt="Visit Visionaries Network">
-          </a>
-        </div>
-      </td>
-    </tr>
+  
   </table>
 </div>
 
