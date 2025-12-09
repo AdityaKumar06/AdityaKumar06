@@ -173,7 +173,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-[![GitHub Streak](https://awesome-github-stats.azurewebsites.net/user-stats/brunobritodev&theme=dark)](https://git.io/awesome-stats-card)
+ <img src="https://github-readme-stats.vercel.app/api?username=adityakumar06&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar06&layout=compact&theme=github_dark" alt="Top Languages" />
 
 </p>
 
