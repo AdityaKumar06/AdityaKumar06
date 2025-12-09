@@ -173,7 +173,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=adityakumar06&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKumar06" alt="GitHub Stats" />
+  https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar06&layout=compact&theme=github_dark" alt="Top Languages" />
 
 </p>
