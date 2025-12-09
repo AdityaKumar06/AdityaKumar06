@@ -163,7 +163,7 @@
 
 ### 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=AdityaKumar06)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
