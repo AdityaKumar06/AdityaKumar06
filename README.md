@@ -21,7 +21,7 @@
 
 ### 💫 About Me
 
-<p>👨‍💻 Full Stack Developer at <b> <a href="https://thesiliconreview.com/usa"></a>The Silicon Review (Media Company) | Apsensys Group </b></b></p>
+<p>👨‍💻 Full Stack Developer at <b> <a href="https://thesiliconreview.com/usa">The Silicon Review (Media Company) </a> Apsensys Group </b></b></p>
 
 <p>🎓 Postgraduate in <b>Masters of Computer Applications (MCA)</b></p>
 
