@@ -31,7 +31,7 @@
 
 <p>📬 Reach me at: <b><a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></b></p>
 
-<p>🗂️ Know more about me: <a href="https://aditya-in-tech.tiiny.site" target="_blank">My Resume</a></p>
+<p>🗂️ Know more about me: <a href="https://aditya-intech.vercel.app/">Lightning Intro ⚡ </a></p>
 
 <p>☕ Fun Fact: The best code is written with a coffee mug nearby 😉</p>
 
