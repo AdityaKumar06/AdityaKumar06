@@ -16,7 +16,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<div align="center" style="max-width: 600px; text-align: left; border: 2px solid #4CAF50; padding: 20px; border-radius: 10px; background-color: #f2f2f2; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<div align="center" style="max-width: 600px; text-align: left;">
 
 ### 💫 About Me
 
@@ -37,6 +37,7 @@
 <p>😄 Bonus: I'm probably the funniest developer you'll meet!</p>
 
 </div>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
