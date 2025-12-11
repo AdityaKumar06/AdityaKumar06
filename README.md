@@ -16,6 +16,8 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<table style="width: 100%; max-width: 100%; table-layout: fixed; word-wrap: break-word;" cellspacing="0" cellpadding="8">
+ 
 <div align="center" style="max-width: 600px; text-align: left;">
 
 ### 💫 About Me
@@ -38,6 +40,7 @@
 
 </div>
 
+</table>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
