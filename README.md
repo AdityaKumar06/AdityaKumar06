@@ -174,7 +174,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumar06&theme=react-dark&hide_border=true&area=true)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar06&layout=compact&theme=github_dark" alt="Top Languages" />
 
 </p>
@@ -197,8 +196,10 @@
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumar06&theme=react-dark&hide_border=true&area=true)
 
 <div align="center">
+
   
 ### 🚀 Projects
 
@@ -279,7 +280,6 @@
 
 
 </div>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center">
@@ -363,4 +363,4 @@
 
 </div>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumar06&theme=react-dark&hide_border=true&area=true)
+
