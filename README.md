@@ -1,4 +1,4 @@
-![Code Banner](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
+![Code Banner](https://github.com/user-attachments/assets/f2b7dbf1-ecbf-45d2-afc6-411fdb0d7e19)
 
 <h1 align="center">Hi 👋, I'm ADITYA KUMAR</h1>
 
