@@ -3,54 +3,67 @@
 <h1 align="center">Hi 👋, I'm ADITYA KUMAR</h1>
 
 <h3 align="center">🚀 Senior Full-Stack Developer | 3+ YOE | MCA | JavaScript & PHP Specialist |  Focused on High-Performance Backends & Efficient Frontends | Mentor & Code Reviewer | India </h3>
+ 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adityakumar06&label=Profile%20Views&color=brightgreen&style=flat" alt="adityakumar06" />
+</p>
+ 
+<p align="center">
+<!--   <img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Coding" width="400" /> -->
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="adityakumar06" width="600" height="350"  />
+</p>
 
-<table>
-  <tr>
-    <td valign="top">
-      <ul style="list-style: none; padding-left: 0;">
-        <p align="center">
-          <br><img src="https://komarev.com/ghpvc/?username=adityakumar06&label=Profile%20views&color=0e75b6&style=flat" alt="adityakumar06" />
-        </p>
-        <h3 align="center">
-          Passionate Full Stack Developer with 3+ years of experience building scalable web apps and high-performance backends.
-          <br><br>
-          Currently, I am focused on developing and optimizing production-ready web applications, delivering top-notch experiences.
-          <hr>
-        </h3>
-        <li>Senior Full Stack Developer at <b>Apsensys Technologies Pvt Ltd.</b></li>
-        <li>Specializing in JavaScript, PHP, React, Node.js, and MySQL</li>
-        <li>Creating seamless user interfaces and efficient backends for modern web applications</li>
-        <li>Available for contract-based freelance projects in Web App Development, Backend Engineering, and Code Reviews</li>
-        <li>Building and optimizing production-grade solutions that scale effortlessly</li>
-        <li>Mentoring junior developers and contributing to open source projects</li>
-      </ul>
-    </td>
-    <!-- RIGHT SIDE IMAGE + SOCIAL LINKS -->
-    <td align="center" valign="top" width="300">
-      <!-- Coding GIF -->
-      <br><img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="Coding GIF" />
-      <!-- Social Links -->
-      <br><br>
-      <img src="https://media2.giphy.com/media/JLXewqmw1pucN3UGmP/giphy.gif" width="150" alt="Connect with me" /><br>
-      <a href="https://www.linkedin.com/in/adityakumar0614/">
-        <img src="https://img.shields.io/badge/LinkedIn-00384d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="mailto:adityakumar.connect2@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-00384d?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-      <a href="https://github.com/AdityaKumar06">
-        <img src="https://img.shields.io/badge/GitHub-00384d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-      <a href="https://www.instagram.com/dark_______star">
-        <img src="https://img.shields.io/badge/Instagram-00384d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-      </a>
-      <a href="https://wa.me/+918092115821">
-        <img src="https://img.shields.io/badge/WhatsApp-00384d?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-      </a>
-    </td>
-  </tr>
-</table>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div align="center" style="max-width: 600px; text-align: left;">
+
+### 💫 About Me
+
+<p>👨‍💻 Full Stack Developer at <b> Apsensys Technologies Pvt Ltd.</b> and reachable at <b><a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></b></p>
+
+<p>🎓 Postgraduate in <b>Masters of Computer Applications (MCA)</b></p>
+
+<p>💡 I specialize in <b>Web & App Development</b>, blending aesthetics with performance.</p>
+
+<p>🧠 I work with <b>C, C++, Java, Python, HTML5, CSS3, Bootstrap, JS, Ajax , jQuery , PHP, MySQL, React, Node.js</b></p>
+
+<p>📬 Reach me at: <b><a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></b></p>
+
+<p>🗂️ Know more about me: <a href="https://aditya-in-tech.tiiny.site" target="_blank">My Resume</a></p>
+
+<p>☕ Fun Fact: The best code is written with a coffee mug nearby 😉</p>
+
+<p>😄 Bonus: I'm probably the funniest developer you'll meet!</p>
+
+</div>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<div align="center">
+  
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:adityakumar.connect2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/adityakumar0614" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/+918092115821" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://instagram.com/dark_______star" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/AdityaKumar06" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+</div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
