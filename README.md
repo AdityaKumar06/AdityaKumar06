@@ -46,6 +46,12 @@
   
 ### 🌐 Connect with Me
 
+<br>
+
+![Image](https://github.com/user-attachments/assets/f47aa3ef-79c9-43e9-9539-8b4aad88d55c)
+
+<br>
+
 <p align="center">
   <a href="mailto:adityakumar.connect2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
