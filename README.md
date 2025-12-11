@@ -174,7 +174,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=adityakumar06&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+![](https://github-readme-stats.vercel.app/api?username=AdityaKumar06&show_icons=true&theme=radical)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumar06&layout=compact&theme=github_dark" alt="Top Languages" />
 
 </p>
