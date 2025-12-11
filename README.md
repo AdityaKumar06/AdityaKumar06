@@ -46,8 +46,6 @@
   
 ### 🌐 Connect with Me
 
-<br>
-
 ![Image](https://github.com/user-attachments/assets/f47aa3ef-79c9-43e9-9539-8b4aad88d55c)
 
 <p align="center">
