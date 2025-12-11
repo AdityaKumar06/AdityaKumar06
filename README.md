@@ -21,7 +21,7 @@
 
 ### 💫 About Me
 
-<p>👨‍💻 Full Stack Developer at <b> Apsensys Technologies Pvt Ltd.</b> and reachable at <b><a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></b></p>
+<p>👨‍💻 Full Stack Developer at <b> Apsensys Technologies Pvt Ltd.</b></b></p>
 
 <p>🎓 Postgraduate in <b>Masters of Computer Applications (MCA)</b></p>
 
