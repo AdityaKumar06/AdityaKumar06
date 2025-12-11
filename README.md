@@ -16,27 +16,26 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<div align="center" style="max-width: 600px; text-align: left;">
+<div style="border: 2px solid #ccc; padding: 20px; max-width: 600px; text-align: left; border-radius: 10px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+  <h3 align="center">💫 About Me</h3>
 
-### 💫 About Me
+  <p>👨‍💻 Full Stack Developer at <b> Apsensys Technologies Pvt Ltd.</b> and reachable at <b><a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></b></p>
 
-<p>👨‍💻 Full Stack Developer at <b> Apsensys Technologies Pvt Ltd.</b> and reachable at <b><a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></b></p>
+  <p>🎓 Postgraduate in <b>Masters of Computer Applications (MCA)</b></p>
 
-<p>🎓 Postgraduate in <b>Masters of Computer Applications (MCA)</b></p>
+  <p>💡 I specialize in <b>Web & App Development</b>, blending aesthetics with performance.</p>
 
-<p>💡 I specialize in <b>Web & App Development</b>, blending aesthetics with performance.</p>
+  <p>🧠 I work with <b>C, C++, Java, Python, HTML5, CSS3, Bootstrap, JS, Ajax , jQuery , PHP, MySQL, React, Node.js</b></p>
 
-<p>🧠 I work with <b>C, C++, Java, Python, HTML5, CSS3, Bootstrap, JS, Ajax , jQuery , PHP, MySQL, React, Node.js</b></p>
+  <p>📬 Reach me at: <b><a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></b></p>
 
-<p>📬 Reach me at: <b><a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></b></p>
+  <p>🗂️ Know more about me: <a href="https://aditya-in-tech.tiiny.site" target="_blank">My Resume</a></p>
 
-<p>🗂️ Know more about me: <a href="https://aditya-in-tech.tiiny.site" target="_blank">My Resume</a></p>
+  <p>☕ Fun Fact: The best code is written with a coffee mug nearby 😉</p>
 
-<p>☕ Fun Fact: The best code is written with a coffee mug nearby 😉</p>
-
-<p>😄 Bonus: I'm probably the funniest developer you'll meet!</p>
-
+  <p>😄 Bonus: I'm probably the funniest developer you'll meet!</p>
 </div>
+
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
