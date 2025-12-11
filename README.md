@@ -1,6 +1,6 @@
 ![Code Banner](https://github.com/user-attachments/assets/f2b7dbf1-ecbf-45d2-afc6-411fdb0d7e19)
 
-<h1 align="center">Hi, I’m ADITYA KUMAR 🔥 – The glitch that smiles back at your system 😈🖥️ </h1>
+<h2 align="center">Hi, I’m ADITYA KUMAR 🔥 – The Glitch that Smiles Back At Your System 😈🖥️ </h2>
 
 <h3 align="center">🚀 Senior Full-Stack Developer | 3+ YOE | MCA | JavaScript & PHP Specialist |  Focused on High-Performance Backends & Efficient Frontends | Mentor & Code Reviewer | India </h3>
  
