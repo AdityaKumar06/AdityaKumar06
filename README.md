@@ -40,7 +40,20 @@
 
 
 
-![snake animation](https://github.com/<seu AdityaKumar06>/<seu AdityaKumar06>/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AdityaKumar06/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AdityaKumar06/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/AdityaKumar06/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 <!-- <h3 align="center">🚀 Senior Full-Stack Developer | 3+ YOE | MCA | JavaScript & PHP Specialist |  Focused on High-Performance Backends & Efficient Frontends | Mentor & Code Reviewer | India </h3>
