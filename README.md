@@ -33,26 +33,26 @@
   </tr>
 </table>
 
-<h3 align="center">🚀 Senior Full-Stack Developer | 3+ YOE | MCA | JavaScript & PHP Specialist |  Focused on High-Performance Backends & Efficient Frontends | Mentor & Code Reviewer | India </h3>
+<!-- <h3 align="center">🚀 Senior Full-Stack Developer | 3+ YOE | MCA | JavaScript & PHP Specialist |  Focused on High-Performance Backends & Efficient Frontends | Mentor & Code Reviewer | India </h3>
  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityakumar06&label=Profile%20Views&color=brightgreen&style=flat" alt="adityakumar06" />
-</p>
+</p> -->
  
-<p align="center">
-<!--   <img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Coding" width="400" /> -->
-<!-- <img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="adityakumar06" width="600" height="350"  /> -->
- <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="600" height="400" alt="Coding GIF" />
-</p>
+<!-- <p align="center">
+  <img src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" alt="Coding" width="400" /> 
+<img src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" alt="adityakumar06" width="600" height="350"  />
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="600" height="400" alt="Coding GIF" /> 
+</p> -->
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<div align="center" style="max-width: 600px; text-align: left;">
+<!-- <div align="center" style="max-width: 600px; text-align: left;"> -->
 
-### 💫 About Me
+ <!--### 💫 About Me -->
 
-<p>👨‍💻 Full Stack Developer at <b> <a href="https://thesiliconreview.com/usa">The Silicon Review (Media Company) </a> Apsensys Group </b></b></p>
+<!-- <p>👨‍💻 Full Stack Developer at <b> <a href="https://thesiliconreview.com/usa">The Silicon Review (Media Company) </a> Apsensys Group </b></b></p>
 
 <p>🎓 Postgraduate in <b>Masters of Computer Applications (MCA)</b></p>
 
@@ -68,7 +68,7 @@
 
 <p>😄 Bonus: I'm probably the funniest developer you'll meet!</p>
 
-</div>
+</div> -->
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
