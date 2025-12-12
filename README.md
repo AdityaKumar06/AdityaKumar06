@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td align="center" valign="top" width="300">
-      <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="600" height="400"  alt="Coding GIF" />
+      <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" height="400"  alt="Coding GIF" />
     </td>
   </tr>
 </table>
