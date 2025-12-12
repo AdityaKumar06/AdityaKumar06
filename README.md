@@ -22,12 +22,12 @@
           <br> Mentor & Code Reviewer | India
           <hr>
         </h3>
-        <li>👨‍💻 Full Stack Developer at The Silicon Review (Media Company) Apsensys Group</li>
+        <li>👨‍💻 Full Stack Developer at  <a href="https://thesiliconreview.com/usa">The Silicon Review </a> (Media Company) Apsensys Group</li>
         <li>🎓 Postgraduate in Masters of Computer Applications (MCA)</li>
         <li>🗂️ Know more about me:  <a href="https://aditya-intech.vercel.app/">Lightning Intro ⚡ </a></li>
         <li>💡 I specialize in Web & App Development, blending aesthetics with performance.</li>
         <li>🧠 I work with C, C++, Java, Python, HTML5, CSS3, Bootstrap, JS, Ajax , jQuery , PHP, MySQL, React, Node.js</li>
-        <li>📬 Reach me out at : <a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</li>
+        <li>📬 Reach me out at : <a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></li>
         <li>☕ Fun Fact: The best code is written with a coffee mug nearby 😉 </li>
         <li> 😄 Bonus: I'm probably the funniest developer you'll meet! </li>
         <br>
