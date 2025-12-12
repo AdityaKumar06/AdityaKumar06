@@ -33,21 +33,6 @@
     </td>
     <td align="center" valign="top" >
     <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="350" height="450"  alt="Coding GIF" />
-  <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AdityaKumar06/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AdityaKumar06/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/AdityaKumar06/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 </td>
 </tr>
         
@@ -265,6 +250,22 @@
 
 
 <div align="center">
+
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AdityaKumar06/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AdityaKumar06/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/AdityaKumar06/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
   
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumar06&theme=react-dark&hide_border=true&area=true)
   
