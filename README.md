@@ -22,7 +22,7 @@
           <br> Mentor & Code Reviewer | India
           <hr>
         </h3>
-        <li>👨‍💻 Full Stack Developer at  <a href="https://thesiliconreview.com/usa"> The Silicon Review  </a>  (Media Company) Apsensys Group</li>
+        <li>👨‍💻 Full Stack Developer at  <a href="https://thesiliconreview.com/usa"> The Silicon Review  </a>  (Media Company) | Apsensys Group</li>
         <li>🎓 Postgraduate in Masters of Computer Applications (MCA)</li>
         <li>🗂️ Know more about me:  <a href="https://aditya-intech.vercel.app/">Lightning Intro ⚡ </a></li>
         <li>💡 I specialize in Web & App Development, blending aesthetics with performance.</li>
