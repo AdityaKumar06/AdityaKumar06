@@ -24,12 +24,12 @@
         </h3>
         <li>👨‍💻 Full Stack Developer at  <a href="https://thesiliconreview.com/usa"> The Silicon Review  </a>  (Media Company) | Apsensys Group</li>
         <li>🎓 Postgraduate in Masters of Computer Applications (MCA)</li>
-        <li>🗂️ Know more about me:  <a href="https://aditya-intech.vercel.app/">Lightning Intro ⚡ </a></li>
+        <li>🗂️ Know more about me:  <a href="https://aditya-intech.vercel.app/">Lightning Intro ⚡</a></li>
         <li>💡 I specialize in Web & App Development, blending aesthetics with performance.</li>
         <li>🧠 I work with C, C++, Java, Python, HTML5, CSS3, Bootstrap, JS, Ajax, jQuery, PHP, MySQL and the MERN Stack (MongoDB, Express.js, React, Node.js)</li>
         <li>📬 Reach me out at : <a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></li>
-        <li>☕ Fun Fact: The best code is fueled by my coffee 😉 </li>
-        <li> 😄Bonus: Why do programmers prefer dark mode? Because light attracts bugs! 😆 </li>
+        <li>☕ Fun Fact: The best code is fueled by my coffee 😉</li>
+        <li>😄 Bonus: Why do programmers prefer dark mode? Because light attracts bugs! </li>
         <br>
       </ul>
     </td>
