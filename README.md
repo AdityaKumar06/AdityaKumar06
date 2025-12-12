@@ -35,12 +35,16 @@
       <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="350" height="450"  alt="Coding GIF" />
     </td>
   </tr>
-  <picture>
+ 
+</table>
+
+
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaKumar06/AdityaKumar06/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaKumar06/AdityaKumar06/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdityaKumar06/AdityaKumar06/output/github-contribution-grid-snake.svg">
 </picture>
-</table>
+
 
 <!-- <h3 align="center">🚀 Senior Full-Stack Developer | 3+ YOE | MCA | JavaScript & PHP Specialist |  Focused on High-Performance Backends & Efficient Frontends | Mentor & Code Reviewer | India </h3>
  
