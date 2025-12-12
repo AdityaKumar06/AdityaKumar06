@@ -22,7 +22,7 @@
         </h3>
         <li>👨‍💻 Full Stack Developer at The Silicon Review (Media Company) Apsensys Group</li>
         <li>🎓 Postgraduate in Masters of Computer Applications (MCA)</li>
-        <li>🗂️ Know more about me: Lightning Intro ⚡</li>
+        <li>🗂️ Know more about me:  <a href="https://aditya-intech.vercel.app/">Lightning Intro ⚡ </a></li>
         <li>💡 I specialize in Web & App Development, blending aesthetics with performance.</li>
         <li>🧠 I work with C, C++, Java, Python, HTML5, CSS3, Bootstrap, JS, Ajax , jQuery , PHP, MySQL, React, Node.js</li>
         <li>📬 Reach me at: adityakumar.connect2@gmail.com</li>
