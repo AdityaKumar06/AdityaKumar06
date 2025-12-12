@@ -31,8 +31,8 @@
         <br>
       </ul>
     </td>
-    <td align="center" valign="top" >
-    <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="350" height="450"  alt="Coding GIF" />
+    <td align="center" valign="middle" >
+    <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="350" height="480"  alt="Coding GIF" />
 </td>
 </tr>
         
