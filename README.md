@@ -38,6 +38,8 @@
  
 </table>
 
+
+
 ![snake animation](https://github.com/<seu AdityaKumar06>/<seu AdityaKumar06>/blob/output/github-contribution-grid-snake2.svg)
 
 
