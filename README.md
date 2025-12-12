@@ -16,7 +16,7 @@
         <h3 align="center">
           Senior Full-Stack Developer | 3+ YOE | MCA | JavaScript & PHP Specialist
           <br><br>
-          Focused on High-Performance Backends & Efficient Frontends |
+          Focused on High-Performance Backends & Efficient Frontends
           <br> Mentor & Code Reviewer | India
           <hr>
         </h3>
