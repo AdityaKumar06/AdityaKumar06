@@ -2,6 +2,37 @@
 
 <h1 align="center">Hi, I’m ADITYA KUMAR 🔥 <br> The Glitch That Smiles Back At Your System 😈🖥️</h1>
 
+
+<table>
+  <tr>
+    <td valign="top">
+      <ul style="list-style: none; padding-left: 0;">
+        <p align="center">
+         <img src="https://komarev.com/ghpvc/?username=adityakumar06&label=Profile%20Views&color=brightgreen&style=flat" alt="adityakumar06" />
+        </p>
+        <h3 align="center">
+          Senior Full-Stack Developer | 3+ YOE | MCA | JavaScript & PHP Specialist
+          <br><br>
+          Focused on High-Performance Backends & Efficient Frontends |
+          <br> Mentor & Code Reviewer | India
+          <hr>
+        </h3>
+        <li>👨‍💻 Full Stack Developer at The Silicon Review (Media Company) Apsensys Group</li>
+        <li>🎓 Postgraduate in Masters of Computer Applications (MCA)</li>
+        <li>🗂️ Know more about me: Lightning Intro ⚡</li>
+        <li>💡 I specialize in Web & App Development, blending aesthetics with performance.</li>
+        <li>🧠 I work with C, C++, Java, Python, HTML5, CSS3, Bootstrap, JS, Ajax , jQuery , PHP, MySQL, React, Node.js</li>
+        <li>📬 Reach me at: adityakumar.connect2@gmail.com</li>
+        <li>☕ Fun Fact: The best code is written with a coffee mug nearby 😉 </li>
+        <li> 😄 Bonus: I'm probably the funniest developer you'll meet! </li>
+      </ul>
+    </td>
+    <td align="center" valign="top" width="300">
+      <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="600" height="400"  alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">🚀 Senior Full-Stack Developer | 3+ YOE | MCA | JavaScript & PHP Specialist |  Focused on High-Performance Backends & Efficient Frontends | Mentor & Code Reviewer | India </h3>
  
 <p align="center">
