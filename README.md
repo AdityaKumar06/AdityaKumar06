@@ -7,6 +7,7 @@
   <tr>
     <td valign="top">
       <ul style="list-style: none; padding-left: 0;">
+        <br>
         <p align="center">
          <img src="https://komarev.com/ghpvc/?username=adityakumar06&label=Profile%20Views&color=brightgreen&style=flat" alt="adityakumar06" />
         </p>
