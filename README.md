@@ -33,9 +33,7 @@
     </td>
     <td align="center" valign="top" >
       <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="350" height="450"  alt="Coding GIF" />
-    </td>
 
-          
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -50,6 +48,8 @@
     src="https://raw.githubusercontent.com/AdityaKumar06/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+    </td>
           
   </tr>
         
