@@ -32,8 +32,7 @@
       </ul>
     </td>
     <td align="center" valign="top" >
-      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="350" height="450"  alt="Coding GIF" />
-
+    <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="350" height="450"  alt="Coding GIF" />
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -49,9 +48,8 @@
   />
 </picture>
 
-    </td>
-          
-  </tr>
+</td>
+</tr>
         
 </table>
 
