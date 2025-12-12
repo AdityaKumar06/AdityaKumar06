@@ -26,12 +26,12 @@
         <li>📬 Reach me at: adityakumar.connect2@gmail.com</li>
         <li>☕ Fun Fact: The best code is written with a coffee mug nearby 😉 </li>
         <li> 😄 Bonus: I'm probably the funniest developer you'll meet! </li>
+            <br>
       </ul>
     </td>
     <td align="center" valign="top" width="300">
       <br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" height="400"  alt="Coding GIF" />
     </td>
-    <br>
   </tr>
 </table>
 
