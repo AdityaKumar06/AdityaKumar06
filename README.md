@@ -1,9 +1,8 @@
 ![Code Banner](https://github.com/user-attachments/assets/f2b7dbf1-ecbf-45d2-afc6-411fdb0d7e19)
 
-<h1 align="center">Hi, I’m ADITYA KUMAR 🔥 </h1> <br>
+<h1 align="center">Hi, I’m ADITYA KUMAR 🔥 </h1> 
 <h2 align="center">The Glitch That Smiles Back At Your System 😈🖥️</h2>
-<br>
-<br>
+
 
 <table>
   <tr>
