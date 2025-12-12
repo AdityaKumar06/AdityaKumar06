@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi, I’m ADITYA KUMAR 🔥 <br> The Glitch That Smiles Back At Your System 😈🖥️</h1>
 
+<br>
 
 <table>
   <tr>
