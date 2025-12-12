@@ -14,7 +14,37 @@
  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="600" height="400" alt="Coding GIF" />
 </p>
 
+<div align="center">
 
+### 💫 Senior Full-Stack Developer | About Me
+
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  
+  <!-- Senior Profile Box -->
+  <div style="background: rgba(30, 30, 50, 0.8); border-radius: 15px; padding: 20px; width: 350px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3); border: 1px solid #00ffff;">
+    <h3 align="center">🚀 Senior Full-Stack Developer</h3>
+    <p align="center"><strong>3+ Years of Experience | MCA</strong></p>
+    <p align="center">JavaScript & PHP Specialist</p>
+    <p align="center">High-Performance Backends<br>Efficient Frontends</p>
+    <p align="center">Mentor & Code Reviewer<br>🇮🇳 India</p>
+    <br>
+    <p align="center"><strong>Currently:</strong><br>Full Stack Developer at <a href="https://thesiliconreview.com">The Silicon Review</a> (Apsensys Group)</p>
+  </div>
+  
+  <!-- About Me Box -->
+  <div style="background: rgba(30, 30, 50, 0.8); border-radius: 15px; padding: 20px; width: 350px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3); border: 1px solid #00ffff;">
+    <h3 align="center">💡 About Me</h3>
+    <p>👨‍💻 Passionate about blending aesthetics with performance in Web & App Development.</p>
+    <p>🧠 Tech Stack: C, C++, Java, Python, HTML5, CSS3, Bootstrap, JS, Ajax, jQuery, PHP, MySQL, React, Node.js</p>
+    <p>📬 <a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></p>
+    <p>🗂️ More about me: <a href="https://aditya-intech.vercel.app/">Lightning Intro ⚡</a></p>
+    <p>☕ Fun Fact: The best code is written with a coffee mug nearby 😉</p>
+    <p>😄 Bonus: I'm probably the funniest developer you'll meet!</p>
+  </div>
+  
+</div>
+
+</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div align="center" style="max-width: 600px; text-align: left;">
