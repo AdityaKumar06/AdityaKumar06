@@ -45,7 +45,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AdityaKumar06/AdityaKumar06/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+_generated with [Platane/snk](https://github.com/Platane/snk)_
++
 <!-- <h3 align="center">🚀 Senior Full-Stack Developer | 3+ YOE | MCA | JavaScript & PHP Specialist |  Focused on High-Performance Backends & Efficient Frontends | Mentor & Code Reviewer | India </h3>
  
 <p align="center">
