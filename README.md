@@ -32,7 +32,7 @@
       </ul>
     </td>
     <td align="center" valign="middle" >
-      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" height="450"  alt="Coding GIF" />
+      <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="350" height="450"  alt="Coding GIF" />
     </td>
   </tr>
 </table>
