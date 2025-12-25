@@ -1,6 +1,6 @@
 ![Code Banner](https://github.com/user-attachments/assets/f2b7dbf1-ecbf-45d2-afc6-411fdb0d7e19)
 
-<h1 align="center">ADITYA KUMAR 🔥 - The Glitch That Smiles Back At Your System 😈🖥️</h1>
+<h1 align="center">ADITYA KUMAR - The Glitch That Smiles Back At Your System 😈🖥️</h1>
 
 
 <br>
