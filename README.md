@@ -437,7 +437,7 @@
   </tbody>
 </table>
 
-![snake gif](https://github.com/AdityaKumar06/AdityaKumar06/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AdityaKumar06/AdityaKumar06/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
