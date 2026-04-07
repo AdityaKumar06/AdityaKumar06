@@ -117,6 +117,10 @@
 
 <div align="center">
 
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
 ### 🛠️ Languages & Tools
 
 <table style="width: 100%; max-width: 100%; table-layout: fixed; word-wrap: break-word;" cellspacing="0" cellpadding="8">
