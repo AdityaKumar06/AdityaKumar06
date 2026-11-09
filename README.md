@@ -22,13 +22,25 @@
           <br> Mentor & Code Reviewer | India
           <hr>
         </h3>
-        <li>👨‍💻 Full Stack Developer at  <a href="https://thesiliconreview.com/usa"> The Silicon Review  </a>  (Media Company) | Apsensys Group</li>
-        <li>🎓 Postgraduate in Masters of Computer Applications (MCA)</li>
-        <li>🗂️ Know more about me:  <a href="https://aditya-intech.vercel.app/">Lightning Intro ⚡</a></li>
-        <li>💡 I specialize in Web & App Development, blending aesthetics with performance.</li>
-        <li>🧠 I work with C, C++, Java, Python, HTML5, CSS3, Bootstrap, JS, Ajax, jQuery, PHP, MySQL and the MERN Stack (MongoDB, Express.js, React, Node.js)</li>
-        <li>📬 Reach me out at : <a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></li>
-        <li>☕ Fun Fact: The best code is fueled by my coffee 😉</li>
+<li>👨‍💻 Software Engineer @ Embitel Technologies (Volkswagen Group) | Assigned to DTICI – Working on Mercedes-Benz Trucks</li>
+
+<li>🎓 MCA Graduate | Dayananda Sagar College of Engineering, Bengaluru</li>
+
+<li>💼 Previously Full-Stack Developer at Apsensys Technologies (Apsensys Group) | Associated with The Silicon Review – US-Based Media Company</li>
+
+<li>⚡ Portfolio: <a href="https://aditya-intech.vercel.app/">Lightning Intro</a></li>
+
+<li>🚀 Passionate about building scalable applications, modern web experiences, and high-performance software solutions.</li>
+
+<li>🧠 Tech Stack: React.js, Next.js, Vue.js, JavaScript, TypeScript, PHP, Yii, Laravel, CodeIgniter, Node.js, Express.js, MySQL, MongoDB, REST APIs.</li>
+
+<li>☁️ Cloud & DevOps: AWS, Docker, Git, GitHub, CI/CD.</li>
+
+<li>🤖 Exploring AI Integration, OpenAI APIs, and emerging technologies.</li>
+
+<li>📬 Let's connect: <a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></li>
+
+<li>☕ Fueled by coffee, curiosity, and clean code.</li>
         <li>😄 Bonus: Why do programmers prefer dark mode? Because light attracts bugs! </li>
         <br>
       </ul>
