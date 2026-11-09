@@ -263,9 +263,8 @@
 <div align="center">
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumar06&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumar06&theme=react-dark&hide_border=true&area=true)
 
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AdityaKumar06&custom_title=This%20is%20a%20title&hide_border=true)]
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
