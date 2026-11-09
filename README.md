@@ -22,25 +22,16 @@
           <br> Mentor & Code Reviewer | India
           <hr>
         </h3>
-<li>👨‍💻 Software Engineer @ Embitel Technologies (Volkswagen Group) | Assigned to DTICI – Working on Mercedes-Benz Trucks</li>
-
-<li>🎓 MCA Graduate | Dayananda Sagar College of Engineering, Bengaluru</li>
-
-<li>💼 Previously Full-Stack Developer at Apsensys Technologies (Apsensys Group) | Associated with The Silicon Review – US-Based Media Company</li>
-
-<li>⚡ Portfolio: <a href="https://aditya-intech.vercel.app/">Lightning Intro</a></li>
-
-<li>🚀 Passionate about building scalable applications, modern web experiences, and high-performance software solutions.</li>
-
-<li>🧠 Tech Stack: React.js, Next.js, Vue.js, JavaScript, TypeScript, PHP, Yii, Laravel, CodeIgniter, Node.js, Express.js, MySQL, MongoDB, REST APIs.</li>
-
-<li>☁️ Cloud & DevOps: AWS, Docker, Git, GitHub, CI/CD.</li>
-
-<li>🤖 Exploring AI Integration, OpenAI APIs, and emerging technologies.</li>
-
-<li>📬 Let's connect: <a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></li>
-
-<li>☕ Fueled by coffee, curiosity, and clean code.</li>
+          <li>👨‍💻 Software Engineer @ Embitel Technologies (Volkswagen Group) | Contributing to DTICI – Working on Mercedes-Benz Trucks</li>
+          <li>🎓 MCA Graduate | Dayananda Sagar College of Engineering, Bengaluru</li>
+          <li>💼 Previously Full-Stack Developer at Apsensys Technologies (Apsensys Group) | Associated with The Silicon Review – US-Based Media Company</li>
+          <li>⚡ Portfolio: <a href="https://aditya-intech.vercel.app/">Lightning Intro</a></li>
+          <li>🚀 Passionate about building scalable applications, modern web experiences, and high-performance software solutions.</li>
+          <li>🧠 Tech Stack: React.js, Next.js, Vue.js, JavaScript, TypeScript, PHP, Yii, Laravel, CodeIgniter, Node.js, Express.js, MySQL, MongoDB, REST APIs.</li>
+          <li>☁️ Cloud & DevOps: AWS, Docker, Git, GitHub, CI/CD.</li>
+          <li>🤖 Exploring AI Integration, OpenAI APIs, and emerging technologies.</li>
+          <li>📬 Let's connect: <a href="mailto:adityakumar.connect2@gmail.com">adityakumar.connect2@gmail.com</a></li>
+          <li>☕ Fueled by coffee, curiosity, and clean code.</li>
         <li>😄 Bonus: Why do programmers prefer dark mode? Because light attracts bugs! </li>
         <br>
       </ul>
